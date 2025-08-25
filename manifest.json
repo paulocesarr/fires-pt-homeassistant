@@ -1,0 +1,9 @@
+{
+  "domain": "fires_pt",
+  "name": "Fires PT",
+  "documentation": "https://github.com/paulocesarr/fires-pt-homeassistant",
+  "requirements": [],
+  "codeowners": ["paulocesarr"],
+  "version": "0.1.0",
+  "iot_class": "cloud_polling"
+}

@@ -1,0 +1,1 @@
+"""Fires PT integration for Home Assistant."""
