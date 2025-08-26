@@ -1,1 +1,2 @@
 # fires-pt-homeassistant
+This Home Assistant custom integration provides real-time information about active wildfires in Portugal by consuming data from the Fogos.pt API. It allows you to set your location and a radius (default 100 km) to check for nearby fires. The integration exposes a sensor that indicates whether there are active fires within range and provides detailed information including coordinates, distance, and fire status, so you can trigger automations or display them on your dashboards.
